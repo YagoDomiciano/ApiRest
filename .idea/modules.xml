@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApiRest.iml" filepath="$PROJECT_DIR$/ApiRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CadastroClientesLoja/CadastroClientesLoja.iml" filepath="$PROJECT_DIR$/CadastroClientesLoja/CadastroClientesLoja.iml" />
     </modules>
   </component>
 </project>
